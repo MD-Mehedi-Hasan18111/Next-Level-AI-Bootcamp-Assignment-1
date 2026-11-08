@@ -12,7 +12,7 @@ This repository contains the solutions for Assignment 1 of the Next Level AI Boo
 
 ---
 
-## 🚀 Solutions Overview (`solutions.ts`)
+## Solutions Overview (`solutions.ts`)
 
 The [`solutions.ts`](./solutions.ts) file contains solutions for the 8 assigned TypeScript problems:
 
@@ -27,8 +27,8 @@ The [`solutions.ts`](./solutions.ts) file contains solutions for the 8 assigned 
 
 ---
 
-## 📝 Blog Posts
+## Blog Posts
 
-- 📖 **[Type vs Interface](./type-vs-interface.md)**: A deep dive into when to use `type` vs `interface`, syntactic differences, and best practices.
-- 📖 **[Union and Intersection Types](./union-and-intersection.md)**: An explanation with real-world code examples illustrating how `|` (OR) and `&` (AND) combine types.
+- **[Type vs Interface](./type-vs-interface.md)**: A deep dive into when to use `type` vs `interface`, syntactic differences, and best practices.
+- **[Union and Intersection Types](./union-and-intersection.md)**: An explanation with real-world code examples illustrating how `|` (OR) and `&` (AND) combine types.
 
